@@ -6,3 +6,4 @@ the theory behind wetting properties that are based on free energies associated 
 interfaces (e.g., Liquid - Vapr, Liquid - Solid, and Vapor - Solid).  
 I also studied SWIPES approach using PLUMED.  
 
+<img width="1001" alt="Image" src="https://github.com/user-attachments/assets/9b86e982-c8dc-40fc-a091-1cfeb5653651" />
