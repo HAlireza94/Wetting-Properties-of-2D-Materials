@@ -1,0 +1,14 @@
+#!/bin/bash
+
+
+for((i=0;i<101;i++));do
+
+
+	echo "6" | gmx trjconv -f prd.xtc -s prd.tpr -b $((4000+i*10)) -e $((4000+i*10)) -n index.ndx -o checking.gro
+	python ./COM.py >> results
+
+	rm \#*
+done
+
+
+
