@@ -4,4 +4,5 @@ First, contact angles are calculated using different approaches, including model
 using a cylinderical droplet, a semi spherical droplet. This helped me to understand  
 the theory behind wetting properties that are based on free energies associated with  
 interfaces (e.g., Liquid - Vapr, Liquid - Solid, and Vapor - Solid).  
-I also studied SWIPES approach using PLUMED.
+I also studied SWIPES approach using PLUMED.  
+
