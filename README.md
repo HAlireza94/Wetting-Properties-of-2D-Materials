@@ -1,10 +1,11 @@
 # Wetting Properties of 2D Materials  
-In this Project, I investigated wetting properties of MXenes, Graphene, and Graphite.
+In this Project,wetting properties of MXenes, Graphene, and Graphite have been investigated.  
 First, contact angles are calculated using different approaches, including modeling  
-using a cylinderical droplet, a semi spherical droplet. This helped me to understand  
+using a cylindrical droplet, and a spherical droplet. This helped to understand  
 the theory behind wetting properties that are based on free energies associated with  
-interfaces (e.g., Liquid - Vapr, Liquid - Solid, and Vapor - Solid).  
+interfaces (e.g., Liquid - Vapor, Liquid - Solid, and Vapor - Solid).  
 I also studied SWIPES approach using PLUMED.  
+All these molecular dynamics simulations have been done using GROMACS, Packmol, ASE package in Python.
 
 <img width="1001" alt="Image" src="https://github.com/user-attachments/assets/9b86e982-c8dc-40fc-a091-1cfeb5653651" />  
 
