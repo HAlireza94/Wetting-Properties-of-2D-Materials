@@ -1,0 +1,9 @@
+tolerance 2.0
+filetype pdb
+
+output box.pdb
+
+structure tip4p.pdb
+  number 2781
+  inside cylinder 0 0 0 0 1 0 30 29.5141
+end structure
