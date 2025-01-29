@@ -4,4 +4,7 @@ density profile of the water droplet using cylindrical coordinate meshing. In do
 "initial" and "box.inp" are used to generate a simulation setup on which we an start doing our  
 molecular dynamics simulation. Then, I need to have coordinates of the center of mass for the   
 water droplet that can be calculated by "run" and "COM.py". The output is "results". The only  
-thing that has to be done on that is to average.
+thing that has to be done on that is to average.  
+For COM, one needs to generate an index file that just has water oxygen. This index file also is used  
+for other analyses because after all we have to generate all frames that we sampled using this index file.  
+Later, these generated frames in cartesian coordinates are used to calculate the cylindrical coordinate meshing density.
