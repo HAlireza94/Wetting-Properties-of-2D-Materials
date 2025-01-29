@@ -1,0 +1,19 @@
+#!/bin/bash
+
+gmx editconf -f graphene.gro -o st1.pdb -box 17.89200 17.70849 20 -center 8.946 8.854245 2 -rotate -90 0 -90
+packmol < box.inp
+
+
+gmx editconf -f box.pdb -o water.pdb -box 17.89200 17.70849 20 -center 8.946 8.854245 4.5 
+cat st1.pdb water.pdb > final3.pdb
+vim final3.pdb
+
+gmx editconf -f final3.pdb -o conf.gro
+gmx genconf -f conf.gro -o conf.gro -renumber
+
+
+rm st*.pdb final*.pdb water.pdb box.pdb 
+
+
+
+

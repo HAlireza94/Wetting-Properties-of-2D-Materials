@@ -1,0 +1,9 @@
+tolerance 2.0
+filetype pdb
+
+output box.pdb
+
+structure tip4p.pdb
+  number 2781
+  inside box 0 0 0 43.7 43.7 43.7
+end structure
