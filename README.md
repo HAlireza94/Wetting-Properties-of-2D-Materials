@@ -9,4 +9,7 @@ I also studied SWIPES approach using PLUMED.
 <img width="1001" alt="Image" src="https://github.com/user-attachments/assets/9b86e982-c8dc-40fc-a091-1cfeb5653651" />  
 
 
-<img width="488" alt="Image" src="https://github.com/user-attachments/assets/f7470932-5474-417a-86b0-f21a0d8c437c" />
+<img width="488" alt="Image" src="https://github.com/user-attachments/assets/f7470932-5474-417a-86b0-f21a0d8c437c" />  
+
+
+<img width="532" alt="Image" src="https://github.com/user-attachments/assets/c3550788-22f4-4f03-bcd1-4fd4e8f480a7" />
