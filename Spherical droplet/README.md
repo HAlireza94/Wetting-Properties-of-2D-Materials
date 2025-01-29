@@ -1,4 +1,4 @@
-# Spherical Droplets  
+## Spherical Droplets  
 This is an ongoing script on which I am working. Technically, I am calculating the  
 density profile of the water droplet using cylindrical coordinate meshing. In doing so,  
 "initial" and "box.inp" are used to generate a simulation setup on which we an start doing our  
