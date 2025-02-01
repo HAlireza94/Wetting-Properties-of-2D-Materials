@@ -14,3 +14,6 @@ All these molecular dynamics simulations have been done using GROMACS, Packmol, 
 
 
 <img width="532" alt="Image" src="https://github.com/user-attachments/assets/c3550788-22f4-4f03-bcd1-4fd4e8f480a7" />
+
+
+<img width="499" alt="Image" src="https://github.com/user-attachments/assets/9bbe3caf-7c4a-4ed1-bb63-8ddd8751c220" />
